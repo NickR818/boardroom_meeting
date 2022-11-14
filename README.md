@@ -1,2 +1,2 @@
-# ch10_practice
+# boardroom_meeting
 Sample website made from HTML and JavaScript
